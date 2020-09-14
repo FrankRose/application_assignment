@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
+    "nodemon": "^1.19.1",
     "random-movie-quotes": "^1.0.3"
   }
 }
